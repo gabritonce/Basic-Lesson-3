@@ -1,0 +1,125 @@
+img {
+  width: 100%;  
+}
+
+.body-class {
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+head{
+  font-family: 'Montserrat', sans-serif;
+font-family: 'Prata', serif;
+}
+.main-section{
+  padding: 20px;
+}
+
+.image-container{
+  height: 500px;
+  background-image: url(https://iso.500px.com/wp-content/uploads/2015/03/batterySpencerStarsnowatermark.jpg)
+}
+
+.h1-font {
+  font-family: 'Prata', serif;
+  font-size:64px;
+  font-weight: 400;
+  margin-bottom: 0%;
+}
+
+.h3-font {
+  font-family: 'Prata', serif;
+  font-size:24px;
+  font-weight: 400;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.link-autore{
+  font-weight: 600;
+  font-style:italic;
+}
+
+.h6-field{
+  padding: 22px;
+  margin-bottom: 0px;
+  margin-top: 56px;
+  color: white;
+  border-radius: 6px;
+  background: linear-gradient(#2e437d, #d14710);
+  }
+
+
+.h6-field-orlando{
+  padding: 22px;
+  margin-bottom: 0px;
+  margin-top: 56px;
+  color: white;
+  border-radius: 6px;
+  background: linear-gradient(#3a4f6d, #275642);
+  
+}
+
+.h6-field-newyork{
+  padding: 22px;
+  margin-bottom: 0px;
+  margin-top: 56px;
+  color: white;
+  border-radius: 6px;
+  background: linear-gradient(#2f2b39, #c4d5f0);
+  
+}
+
+.h6-field-miami{
+  padding: 22px;
+  margin-bottom: 0px;
+  margin-top: 56px;
+  color: white;
+  border-radius: 6px;
+  background: linear-gradient(#e8dac1, #51dad7);
+  
+}
+.h6-field-boston{
+  padding: 22px;
+  margin-bottom: 0px;
+  margin-top: 56px;
+  color: white;
+  border-radius: 6px;
+  background: linear-gradient(#705a3d, #af4cbc);
+  
+}
+
+.h6-field-losangeles{
+  padding: 22px;
+  margin-bottom: 0px;
+  margin-top: 56px;
+  color: white;
+  border-radius: 6px;
+  background: linear-gradient(#a28cbe, #fac8b8);
+  
+}
+.ul-class {
+  list-style-type: none;
+  padding: 0px;
+  
+}
+.div-ul {
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-left: 22px;
+  border-bottom: 1px
+  #dfdfdf;
+ 
+}
+
+a:visited{
+  color: #3a4f6d;
+}
+
+.footer-class {
+background-color: black;;
+padding: 16px;
+  color: white;
+  text-align: center;
+}
+
